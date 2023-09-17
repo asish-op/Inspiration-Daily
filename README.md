@@ -1,6 +1,6 @@
 # Inspirational Quote Generator
 
-![Project Image](project-image-url.jpg)
+![Project Image](https://cdn.discordapp.com/attachments/1144673966942863421/1152862074553245706/image.png)
 
 ## Table of Contents
 
