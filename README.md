@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/asish-op/Inspiration-Daily.git
-
+```
 3. Run `install.bat` which will install the require packages
 
 4. Run `run.bat` Which will start the server at localhost:8080
