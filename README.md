@@ -30,7 +30,7 @@ The Inspirational Quote Generator is a web application that generates inspiratio
 
 ## Demo
 
-[https://web.asishop.dev/](#) - Add the link to your live demo here.
+[https://web.asishop.dev/](#)
 
 ## Getting Started
 
